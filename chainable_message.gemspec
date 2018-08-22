@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
-  s.name = 'chainable_message'
+  s.name = 'evt-chainable_message'
   s.version = '0.0.0'
   s.summary = 'Chainable Message'
   s.description = ' '
